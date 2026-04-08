@@ -17,6 +17,7 @@ Install AHK https://www.autohotkey.com/download/ahk-v2.exe
 Install AwakenedPoeTrade https://snosme.github.io/awakened-poe-trade/download
 
 Create a new Google Doc, set it to public and so that everyone can edit it
+
 Add your GDoc ID to the .ahk file (replace the ---> your id here <--- part)
 
 Open PoE on GFN -> Open Steam Overlay -> Settings -> Change Overlay Key to F7 -> Change Web Browser home page to your GDoc
