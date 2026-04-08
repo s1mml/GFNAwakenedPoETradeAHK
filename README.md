@@ -24,6 +24,11 @@ Open PoE on GFN -> Open Steam Overlay -> Settings -> Change Overlay Key to F7 ->
 
 Start AwakenedPoETrade -> right click icon -> open in browser -> settings icon -> general -> Change PoE Window Title to "Path of Exile on GeForce NOW" -> restart APT
 
-Before using this, make sure when you press F7 that the GDoc is loaded
 
-Enjoy!
+# Usage:
+
+Make sure the Google Doc is laoded when pressing F7
+
+Hover item you want checked and press F6 (APT should open automatically)
+
+Press F5 for Hideout Teleport
